@@ -1,4 +1,6 @@
 <h1> Augmented Reality Map Navigation with Freehand Gestures </h1>
+
+<h2> Introduction </h2>
 This paper examines the use of freehand gestures for digital map navigation in Augmented Reality (AR), with a focus on improving user experience and reducing arm fatigue. This research explores new techniques for multiscale navigation, such as pan and zoom, using disembodied horizontal map displays. This study also evaluates the influence of hand dominance (unimanual and bimanual) and input mapping (position-based and rate-based) on user performance and comfort during multiscale navigation. The results show that transitions between input mappings can reduce perceived arm fatigue without sacrificing user performance.
 <br/> <br/>
 This research focuses on the use of freehand movements for multiscale navigation in Augmented Reality (AR) applications, especially in the context of digital map exploration. By exploring the benefits of integrating position- and velocity-based input mapping, this research aims to improve user experience and reduce arm fatigue during navigation tasks. The introduction of new hybrid techniques, such as DiveZoom and TerraceZoom, allows seamless transitions between different input mappings, providing a good balance between performance, comfort and ease of learning for users. The research findings show that this hybrid method can effectively improve the usability of AR applications for map navigation, paving the way for more intuitive and ergonomic interaction methods in the future.
@@ -19,19 +21,28 @@ In this research, various devices and technologies are used to support the imple
     - The function parameters are adjusted through preliminary studies to find parameters suitable for most users.
     - Simple visual feedback is used to indicate detected pinch and displacement for the Joystick technique  .
 
-The research method used in this study involves a series of steps to explore the use of freehand gestures in digital map navigation with AR. The following is a general description of the research methods carried out:
+<h2>Methodology</h2>
+In this research, the methodology used includes a series of steps to test and evaluate interaction techniques developed for digital map navigation with AR. The following is a summary of the methodology used in this research:
 
-1. **Preliminary Exploration**: Research begins with an exploration of the use of free hand gestures in digital map navigation, with a focus on the use of hand gestures in the air with AR.
+1. **Research Design**:
+    - The research was carried out in two different study stages to evaluate the interaction techniques developed.
+    - The first study focused on mapping input and handedness in a panning task, while the second study compared four interaction techniques in a zooming task [T1], [T2].
 
-2. **User Study**: A user study was conducted to explore the effects of hand dominance (unimanual and bimanual) and input mapping (position-based and rate-based) on user performance and comfort during multiscale navigation.
+2. **Participants**:
+    - A total of 16 participants (13 men, 3 women) who were all right-handed were recruited for this study.
+    - Participants came from the institution where the author works, with an age range of 18 to 44 years.
+    - Some participants had previous experience with VR/AR, while others did not [T6].
 
-3. **Hybrid Technique Development**: Based on findings from user studies, two new hybrid techniques, namely DiveZoom and TerraceZoom, were designed, which enable a smooth transition between position-based and rate-based input mapping.
+3. **Experimental Procedure**:
+    - The study consists of two different parts: a panning task and an integrated pan and zoom task.
+    - Each interaction technique is evaluated by providing sufficient training to participants before performing the specified tasks.
+    - Study duration ranges between 20-30 minutes for the first part and 50-60 minutes for the second part, with a break between the two parts [T6].
 
-4. **Design Evaluation**: An evaluation was carried out on the hybrid engineering design developed to evaluate performance, comfort and ease of learning for users.
+4. **Data Analysis**:
+    - User performance data, such as task completion time, arm fatigue and user preferences, are analyzed using appropriate statistical methods.
+    - Statistical analysis is performed to compare results between different interaction techniques and evaluate effectiveness and user preferences [T6].
 
-5. **Result Analysis**: Results from the evaluation are used to analyze the effectiveness of the hybrid technique in reducing perceived arm fatigue without compromising user performance.
-
-Using this approach, the research succeeded in identifying the benefits of integrating position-based and rate-based input mapping in improving the user experience in digital map navigation with AR.
+By using a structured and experimental methodological approach, this research can provide deep insight into the performance and user preferences of interaction techniques developed for digital map navigation with AR.
 
 In this research, various interaction techniques are used to explore the potential of using freehand gestures in digital map navigation with AR. The following is an overview of the interaction techniques used in this research:
 
