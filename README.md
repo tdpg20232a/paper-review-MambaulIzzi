@@ -1,5 +1,7 @@
 <h1> Augmented Reality Map Navigation with Freehand Gestures </h1>
+Authors: KA Satriadi, B Ens, M Cordeil, B Jenny | 2019
 
+Published in: 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)
 <h2> Introduction </h2>
 This paper examines the use of freehand gestures for digital map navigation in Augmented Reality (AR), with a focus on improving user experience and reducing arm fatigue. This research explores new techniques for multiscale navigation, such as pan and zoom, using disembodied horizontal map displays. This study also evaluates the influence of hand dominance (unimanual and bimanual) and input mapping (position-based and rate-based) on user performance and comfort during multiscale navigation. The results show that transitions between input mappings can reduce perceived arm fatigue without sacrificing user performance.
 <br/> <br/>
